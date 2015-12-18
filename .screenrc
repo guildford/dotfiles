@@ -1,0 +1,28 @@
+#trun off the startup message
+startup_message off
+term linux
+
+defscrollback 40960
+hardstatus alwayslastline
+
+#terminal name
+shelltitle "$|static"
+
+#shutdown the noise
+vbell on
+
+bind w windowlist -b
+bind ^w windowlist -b
+
+#initial apps to run
+screen
+screen
+select 0
+
+escape ^aa
+
+attrcolor u "-u B"
+autodetach on
+
+#hardstatus string '%{= kG}[ %{G}%c:%s %{g}][%= %{= kw}%?%-Lw%?%{Y}%n*%f%t %{K}%?%+Lw%?%= %{kG}][ %{C}(F8)Screen (F9)Title (F10)Detach (F11)Prev (F12)Next %{kg}][%{kG} %l %Y/%m/%d %{kG}]'
+hardstatus string '%{= kG}[ %{G}%c:%s %{g}][%= %{= kw}%?%-Lw%?%{Y}%n*%f%t %{K}%?%+Lw%?%= %{kG}][ %{C} %{kg}][%{kG} %l %Y/%m/%d %{kG}]'
