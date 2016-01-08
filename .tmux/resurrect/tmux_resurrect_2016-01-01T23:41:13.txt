@@ -1,0 +1,7 @@
+pane	0	0	:flask	0	:-	0	:/Users/jinyongyang/Nutshore/Python/Learn_Flask/flasky	1	zsh	:
+pane	0	1	:python	0	: 	0	:/Users/jinyongyang/Nutshore/Python/Learn_Flask/flasky	1	Python	:/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python hello.py runserver -p 4321
+pane	0	2	:~	1	:*	0	:/Users/jinyongyang	1	zsh	:
+window	0	0	0	:-	b3bd,158x60,0,0,0
+window	0	1	0	: 	b3be,158x60,0,0,1
+window	0	2	1	:*	b3bf,158x60,0,0,2
+state	0	

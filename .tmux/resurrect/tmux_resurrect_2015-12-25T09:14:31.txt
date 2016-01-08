@@ -1,0 +1,56 @@
+pane	0	0	:ipn	0	:#	1	:/Users/jinyongyang	1	Python	:/Library/Frameworks/Python.framework/Versions/3.4/Resources/Python.app/Contents/MacOS/Python /Library/Frameworks/Python.framework/Versions/3.4/bin/ipython notebook
+pane	0	1	:~jinyongMac	0	: 	1	:/Users/jinyongyang	1	zsh	:
+pane	0	2	:~	1	:*	1	:/Users/jinyongyang	1	zsh	:
+pane	0	3	:ssh@other	0	: 	1	:/Users/jinyongyang	1	zsh	:
+pane	0	4	:ZaZamm	0	:-	1	:/Users/jinyongyang	1	zsh	:
+pane	1	0	:~/tmux/bin	0	:#	1	:/Users/jinyongyang/tmux/bin	1	zsh	:
+pane	1	1	:~	0	:#	1	:/Users/jinyongyang	1	zsh	:
+pane	1	1	:~	0	:#	2	:/Users/jinyongyang	0	zsh	:
+pane	1	2	:~	0	:-	1	:/Users/jinyongyang	1	zsh	:
+pane	1	2	:~	0	:-	2	:/Users/jinyongyang	0	zsh	:
+pane	1	3	:screen	1	:*	1	:/Users/jinyongyang	0	screen	:screen
+pane	1	3	:screen	1	:*	2	:/Users/jinyongyang	1	screen	:screen ls
+pane	1	4	:~	0	:#	1	:/Users/jinyongyang	1	zsh	:
+pane	1	5	:~	0	:#	1	:/Users/jinyongyang	1	zsh	:
+pane	1	6	:~	0	: 	1	:/Users/jinyongyang	1	zsh	:
+pane	10	1	:~	1	:*	1	:/Users/jinyongyang	1	zsh	:
+pane	11	1	:~	1	:*	1	:/Users/jinyongyang	1	zsh	:
+pane	2	0	:~	1	:*	1	:/Users/jinyongyang	1	zsh	:
+pane	3	0	:~	1	:*	1	:/Users/jinyongyang	1	zsh	:
+pane	6	0	:~	1	:*	1	:/Users/jinyongyang	1	zsh	:
+pane	7	0	:~	1	:*	1	:/Users/jinyongyang	1	zsh	:
+pane	jinyong	0	:~	0	:#	1	:/Users/jinyongyang	1	zsh	:
+pane	jinyong	0	:~	0	:#	2	:/Users/jinyongyang	0	zsh	:
+pane	jinyong	1	:~	0	:#	1	:/Users/jinyongyang	0	zsh	:
+pane	jinyong	1	:~	0	:#	2	:/Users/jinyongyang	1	zsh	:
+pane	jinyong	2	:~	1	:*	1	:/Users/jinyongyang	1	zsh	:
+pane	jinyong	3	:~	0	:#	1	:/Users/jinyongyang	1	zsh	:
+pane	jinyong	4	:~	0	:#!	1	:/Users/jinyongyang	1	zsh	:
+pane	jinyong	5	:~	0	:#	1	:/Users/jinyongyang	1	zsh	:
+pane	jinyong	6	:~	0	:#-	1	:/Users/jinyongyang	1	zsh	:
+window	0	0	0	:#	b63d,159x51,0,0,0
+window	0	1	0	: 	a99e,96x40,0,0,1
+window	0	2	1	:*	a99f,96x40,0,0,2
+window	0	3	0	: 	a9a0,96x40,0,0,3
+window	0	4	0	:-	a9a6,96x40,0,0,9
+window	1	0	0	:#	d204,164x49,0,0,7
+window	1	1	0	:#	d81d,164x49,0,0{82x49,0,0,5,81x49,83,0,15}
+window	1	2	0	:-	0ecc,164x49,0,0[164x24,0,0,8,164x24,0,25,16]
+window	1	3	1	:*	13a1,164x49,0,0[164x24,0,0,10,164x24,0,25,17]
+window	1	4	0	:#	6932,164x49,0,0,13
+window	1	5	0	:#	6933,164x49,0,0,14
+window	1	6	0	: 	6937,164x49,0,0,18
+window	10	1	1	:*	56a4,210x50,0,0,34
+window	11	1	1	:*	6937,164x49,0,0,37
+window	2	0	1	:*	6930,164x49,0,0,11
+window	3	0	1	:*	6931,164x49,0,0,12
+window	6	0	1	:*	e930,164x49,0,0,21
+window	7	0	1	:*	e932,164x49,0,0,23
+window	jinyong	0	0	:#	8b65,164x49,0,0{81x49,0,0,19,82x49,82,0,36}
+window	jinyong	1	0	:#	8224,164x49,0,0[164x23,0,0,26,164x25,0,24,30]
+window	jinyong	2	1	:*	d718,131x50,0,0,29
+window	jinyong	3	0	:#	56a1,210x50,0,0,31
+window	jinyong	4	0	:#!	56a3,210x50,0,0,33
+window	jinyong	5	0	:#	66b5,333x86,0,0,35
+window	jinyong	6	0	:#-	6938,164x49,0,0,38
+state	0	
